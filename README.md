@@ -11,9 +11,10 @@ A firm has a client who is looking to invest X amount of dollars into the NY Sto
 
 ## UNDERSTAND
 To solve the question, we are going to take two initial steps.
+
 The first being, is to create a dashboard for a Profit and Loss Statement that calculates the Gross Profit, Operating Profit/EBIT for a company selected from a drop-down list. The drop-down list pulls historical fundamentals data to create the P&L Statement. 
 
-Next, is to create a financial model for r choice that forecasts out the Gross Profit, Operating Profit or EBIT for two more years using three scenarios (Best case, Weak case and Base case). Your assumptions for revenue growth, gross margin and operating margin should change for each scenario.
+Next, is to create a financial model for r choice that forecasts out the Gross Profit, Operating Profit or EBIT for two more years using three scenarios (Best case, Weak case and Base case). The assumptions for revenue growth, gross margin and operating margin changes for each scenario.
 
 ## EXPLORE
 
@@ -31,4 +32,8 @@ GICS Sub Industry: Sub-industry sector the company is categorized under (e.g., A
 
 ## SOLVE
 
+SNAPSHOT
+FULL ANALYSIS
+
 ## TRANSLATE
+CONCLUSIONS
