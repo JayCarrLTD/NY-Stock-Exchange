@@ -32,8 +32,8 @@ GICS Sub Industry: Sub-industry sector the company is categorized under (e.g., A
 
 ## SOLVE
 
-SNAPSHOT
-FULL ANALYSIS
+<a href="https://nbviewer.jupyter.org/github/JayCarrLTD/NY-Stock-Exchange/blob/master/Project%20Files/snapshot.pdf'>SNAPSHOT</a>
+<a href = "https://docs.google.com/spreadsheets/d/1e6gUcrffPdMOimmzKBMD6vfBYtou6AdqHUopbjpbhmc/edit?usp=sharing>FULL PROJECT</a>
 
 ## TRANSLATE
-CONCLUSIONS
+<a href="https://nbviewer.jupyter.org/github/JayCarrLTD/NY-Stock-Exchange/blob/master/Project/Which%20Industry%20has%20the%20Highest%20Levels%20of%20Revenue.pdf">CONCLUSIONS</a>
