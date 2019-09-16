@@ -30,7 +30,7 @@ The following information is included in the Project data NYSE file:
 <li>Other Operating expense items</li>
 <li>Global Industry Classification Standard (GICS) Sector: Industry sector the company is categorized under (e.g., American Airlines with the ticker symbol AAL is categorized under Industrials.)</li>
 <li>GICS Sub Industry: Sub-industry sector the company is categorized under (e.g., AAL is further categorized under the sub-category of Airlines industry.)</li>
-
+</ul>
 ## SOLVE
 
 <a href="https://nbviewer.jupyter.org/github/JayCarrLTD/NY-Stock-Exchange/blob/master/Project%20Files/snapshot.pdf">SNAPSHOT</a>
