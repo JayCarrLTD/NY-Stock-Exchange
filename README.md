@@ -20,7 +20,7 @@ Next, is to create a financial model for r choice that forecasts out the Gross P
 
 The following information is included in the Project data NYSE file:
 <ul>
- <li>Ticker symbol: Stock symbol</li>
+<li>Ticker symbol: Stock symbol</li>
 <li>Years: Number of years for which data is provided</li>
 <li>Period ending</li>
 <li>Total revenue</li>
@@ -31,6 +31,7 @@ The following information is included in the Project data NYSE file:
 <li>Global Industry Classification Standard (GICS) Sector: Industry sector the company is categorized under (e.g., American Airlines with the ticker symbol AAL is categorized under Industrials.)</li>
 <li>GICS Sub Industry: Sub-industry sector the company is categorized under (e.g., AAL is further categorized under the sub-category of Airlines industry.)</li>
 </ul>
+
 ## SOLVE
 
 <a href="https://nbviewer.jupyter.org/github/JayCarrLTD/NY-Stock-Exchange/blob/master/Project%20Files/snapshot.pdf">SNAPSHOT</a>
