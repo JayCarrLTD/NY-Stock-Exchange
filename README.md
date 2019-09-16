@@ -19,21 +19,22 @@ Next, is to create a financial model for r choice that forecasts out the Gross P
 ## EXPLORE
 
 The following information is included in the Project data NYSE file:
-Ticker symbol: Stock symbol
-Years: Number of years for which data is provided
-Period ending
-Total revenue
-Cost of goods sold
-Sales, General and Administrative expenses
-Research and Development expenses
-Other Operating expense items
-Global Industry Classification Standard (GICS) Sector: Industry sector the company is categorized under (e.g., American Airlines with the ticker symbol AAL is categorized under Industrials.)
-GICS Sub Industry: Sub-industry sector the company is categorized under (e.g., AAL is further categorized under the sub-category of Airlines industry.)
+<ul>
+ <li>Ticker symbol: Stock symbol</li>
+<li>Years: Number of years for which data is provided</li>
+<li>Period ending</li>
+<li>Total revenue</li>
+<li>Cost of goods sold</li>
+<li>Sales, General and Administrative expenses</li>
+<li>Research and Development expenses</li>
+<li>Other Operating expense items</li>
+<li>Global Industry Classification Standard (GICS) Sector: Industry sector the company is categorized under (e.g., American Airlines with the ticker symbol AAL is categorized under Industrials.)</li>
+<li>GICS Sub Industry: Sub-industry sector the company is categorized under (e.g., AAL is further categorized under the sub-category of Airlines industry.)</li>
 
 ## SOLVE
 
-<a href="https://nbviewer.jupyter.org/github/JayCarrLTD/NY-Stock-Exchange/blob/master/Project%20Files/snapshot.pdf'>SNAPSHOT</a>
-<a href = "https://docs.google.com/spreadsheets/d/1e6gUcrffPdMOimmzKBMD6vfBYtou6AdqHUopbjpbhmc/edit?usp=sharing>FULL PROJECT</a>
+<a href="https://nbviewer.jupyter.org/github/JayCarrLTD/NY-Stock-Exchange/blob/master/Project%20Files/snapshot.pdf">SNAPSHOT</a>
+<a href = "https://docs.google.com/spreadsheets/d/1e6gUcrffPdMOimmzKBMD6vfBYtou6AdqHUopbjpbhmc/edit?usp=sharing">FULL PROJECT</a>
 
 ## TRANSLATE
 <a href="https://nbviewer.jupyter.org/github/JayCarrLTD/NY-Stock-Exchange/blob/master/Project/Which%20Industry%20has%20the%20Highest%20Levels%20of%20Revenue.pdf">CONCLUSIONS</a>
