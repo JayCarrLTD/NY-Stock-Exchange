@@ -1,16 +1,20 @@
 # NY Stock Exchange
  
 ## INTRODUCTION
-In this project we will analyze real life data from the New York Stock Exchange. You will be drawing a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. We have created a smaller subset of the data that you will be using for the project.
+This project we analyzes real life data from the New York Stock Exchange. THe project drawss on a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. 
 
 ## QUESTION 
 
+### SITUATION
+A firm has a client who is looking to invest X amount of dollars into the NY Stock Market. The cilent is looking to see which markets would be beneficial for a short term investment. 
+
 
 ## UNDERSTAND
+To solve the question, we are going to take two initial steps.
 
-Create a dashboard for a Profit and Loss Statement that calculates the Gross Profit, Operating Profit or EBIT for a company selected from a drop-down list. Your drop-down list should pull historical fundamentals data to create the P&L Statement. The P&L statement should include the Gross Profit, Operating Profit or EBIT values for all the years there is historical data available for that company in the dataset.
+The first being, is to create a dashboard for a Profit and Loss Statement that calculates the Gross Profit, Operating Profit/EBIT for a company selected from a drop-down list. The drop-down list pulls historical fundamentals data to create the P&L Statement. 
 
-Create a financial model for a company (different from Task 2) of your choice that forecasts out the Gross Profit, Operating Profit or EBIT for two more years using three scenarios (Best case, Weak case and Base case). Your assumptions for revenue growth, gross margin and operating margin should change for each scenario.
+Next, is to create a financial model for r choice that forecasts out the Gross Profit, Operating Profit or EBIT for two more years using three scenarios (Best case, Weak case and Base case). The assumptions for revenue growth, gross margin and operating margin changes for each scenario.
 
 ## EXPLORE
 
@@ -28,4 +32,8 @@ GICS Sub Industry: Sub-industry sector the company is categorized under (e.g., A
 
 ## SOLVE
 
+SNAPSHOT
+FULL ANALYSIS
+
 ## TRANSLATE
+CONCLUSIONS
