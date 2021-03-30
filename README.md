@@ -34,7 +34,7 @@ The following information is included in the Project data NYSE file:
 
 ## SOLVE
 
-<a href="https://nbviewer.jupyter.org/github/JayCarrLTD/NY-Stock-Exchange/blob/master/Project%20Files/snapshot.pdf">SNAPSHOT</a>
+<a href="https://nbviewer.jupyter.org/github/JayCarrLTD/ny_stock/blob/master/Project/Financial%20Model.pdf">SNAPSHOT</a>
 <a href = "https://docs.google.com/spreadsheets/d/1e6gUcrffPdMOimmzKBMD6vfBYtou6AdqHUopbjpbhmc/edit?usp=sharing">FULL PROJECT</a>
 
 ## TRANSLATE
