@@ -4,7 +4,7 @@ Click Link for Access:
 
  
 ## INTRODUCTION
-This project we analyzes real life data from the New York Stock Exchange. The project drawss on a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. 
+This project we analyzes real life data from the New York Stock Exchange. The project draws on a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. 
 
 ## QUESTION 
 
